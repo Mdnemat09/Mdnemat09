@@ -1,16 +1,66 @@
-## Hi there 👋
+Hi, I'm MD NEMATULLAH, a passionate **B.Tech Cyber Security student** with skills in **Frontend Development, Python, Bash**, and a deep interest in **Ethical Hacking & Security Research**.  
+I love creating secure systems, building useful tools, and exploring the world of cyber security. 🔐⚡
 
-<!--
-**Mdnemat09/Mdnemat09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧰 My Tech Toolkit:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Frontend Development  
+- 🌐 **HTML** – Structure & semantic web  
+- 🎨 **CSS** – Modern UI styling & layouts  
+- ⚡ **JavaScript** – Interactive & dynamic websites  
+- 📱 **Responsive Web Design**  
+- 🧩 **Basic UI/UX**
+
+### 🐍 Programming & Scripting  
+- 🐍 **Python (Basics)** – Automation, simple tools, scripts  
+- 💻 **Bash Scripting** – Linux automation & CLI tools  
+- 🗂️ **Git & GitHub** – Version control & project hosting  
+
+### 🔐 Cyber Security & Tools  
+- 🛡️ **Ethical Hacking (Learning)**  
+- 🐧 **Kali Linux** – Daily driver for security tasks   
+- 💣 **Metasploit (Beginner Level)** – Exploitation basics  
+
+---
+
+## 🚀 What I Build:
+- 🕸️ Frontend websites & responsive UI  
+- 🛠️ Simple cyber security tools (Python & Bash)  
+- 🧪 Basic penetration testing scripts  
+- 🔍 Network scanning & automation mini projects  
+- 🧰 Security research & learning-based tools  
+
+---
+
+## 📚 Currently Learning:
+- 🚀 **Advanced Ethical Hacking**  
+- 🌐 **Network Security & Web App Security (XSS, SQLi, CSRF)**  
+- 🤖 **Python Automation for Cyber Security**  
+- 🐞 **Bug Bounty Basics**  
+- 🔧 **Linux & Shell Mastery**
+
+---
+
+## 🌎 Explore My Work:
+You'll find projects related to **web development, automation scripts, security tools, mini hacking utilities, and Linux scripting**.  
+I'm always open to collaborations, discussions, and learning new things! 🚀  
+
+---
+
+## 🤝 Let's Connect:
+- 🌐 GitHub – https://github.com/Mdnemat09  
+- 📧 Email –  mdnematullah862@gmail.com
+- 👨‍💼 LinkedIn - https://www.linkedin.com/in/md-nematullah-a22300367
+
+---
+
+## ✨ C Y B E R • S E C U R I T Y ✨  
+Cyber Security isn’t just about hacking — it’s about **protecting, exploring, and creating possibilities**.  
+Feel free to tweak this README to match your style! 🚀🔐
+
+---
+
+## 🌐 Socials:
+LinkedIn - https://www.linkedin.com/in/md-nematullah-a22300367
+Instagram - https://www.instagram.com/mdaadil09?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
