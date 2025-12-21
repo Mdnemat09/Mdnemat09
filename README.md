@@ -62,5 +62,8 @@ Feel free to tweak this README to match your style! 🚀🔐
 ---
 
 ## 🌐 Socials:
-LinkedIn - https://www.linkedin.com/in/md-nematullah-a22300367
-Instagram - https://www.instagram.com/mdaadil09?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-nematullah-a22300367)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/mdaadil09?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdnematullah862@gmail.com)
+
+
