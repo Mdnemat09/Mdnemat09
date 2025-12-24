@@ -49,9 +49,9 @@ I'm always open to collaborations, discussions, and learning new things! 🚀
 ---
 
 ## 🤝 Let's Connect:
-- 🌐 GitHub – https://github.com/Mdnemat09  
-- 📧 Email –  mdnematullah862@gmail.com
-- 👨‍💼 LinkedIn - https://www.linkedin.com/in/md-nematullah-a22300367
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mdnemat09)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdnematullah862@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-nematullah-a22300367)
 
 ---
 
