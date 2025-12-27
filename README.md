@@ -14,7 +14,7 @@ I love creating secure systems, building useful tools, and exploring the world o
 
 ### 🐍 Programming & Scripting  
 - 🐍 **Python (Basics)** – Automation, simple tools, scripts  
-- 💻 **Bash Scripting** – Linux automation & CLI tools  
+- 💻 **Bash Shell Scripting** – Linux automation & CLI tools  
 - 🗂️ **Git & GitHub** – Version control & project hosting  
 
 ### 🔐 Cyber Security & Tools  
